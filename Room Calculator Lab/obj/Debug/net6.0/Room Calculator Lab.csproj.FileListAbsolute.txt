@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/bin/Debug/net6.0/Room Calculator Lab
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/bin/Debug/net6.0/Room Calculator Lab.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/bin/Debug/net6.0/Room Calculator Lab.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/bin/Debug/net6.0/Room Calculator Lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/bin/Debug/net6.0/Room Calculator Lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/refint/Room Calculator Lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/Room Calculator Lab.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-1/room-calculator-lab/Room Calculator Lab/obj/Debug/net6.0/ref/Room Calculator Lab.dll
